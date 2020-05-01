@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298997655475",
+    "firebase_url": "https://gdg-folio-e079d.firebaseio.com",
+    "project_id": "gdg-folio-e079d",
+    "storage_bucket": "gdg-folio-e079d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298997655475:android:fd59a9e6a6e5b0ffe34dc6",
+        "android_client_info": {
+          "package_name": "org.ericampire.android.gdgfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298997655475-usdo3olk30u4j890234vdlpv528pik1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYs1VdYjdwnfX41-O-k36ex7gPM6V-ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298997655475-usdo3olk30u4j890234vdlpv528pik1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
